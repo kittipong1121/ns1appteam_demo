@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Project\\ns1appteam-demo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "D:\\Project\\ns1appteam-demo\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "D:\\Project\\ns1appteam-demo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "D:\\Project\\ns1appteam-demo\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Project\\ns1appteam-demo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "D:\\Project\\ns1appteam-demo\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    }
+]
