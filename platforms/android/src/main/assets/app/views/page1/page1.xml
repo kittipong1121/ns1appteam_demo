@@ -1,5 +1,5 @@
 <page loaded="pageloaded">
-    <StackLayout>
+    <StackLayout orientation="horizontal">
     <!--Put Code in hear-->
     </StackLayout>
 </page>

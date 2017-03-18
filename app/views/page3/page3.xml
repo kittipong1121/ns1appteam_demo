@@ -1,5 +1,21 @@
-<page loaded="pageloaded">
+<page actionBarHidden="actionBarHidden" loaded="loaded">
     <StackLayout>
-    <!--Put Code in hear-->
+        <StackLayout>
+            <Label class="header" text="ผู้จัดทำ"/>
+            <Image src="~/images/login-big-icon.png" horizontalAlignment="center" /> 
+                <StackLayout orientation="horizontal" width="95%">
+                    <Label class="font_n1" text="นายกิตติพงษ์  แก้วโสภา"/>
+                    <Label class="font_n2"  text="วศ.สระบุรี"/>
+                </StackLayout>
+                <StackLayout orientation="horizontal" width="95%">
+                    <Label class="font_n1" text="นางสาวนัฐญดา  กาละพัฒน์"/>
+                    <Label class="font_n2" text="วศ.ชลบุรี"/>
+                </StackLayout>
+                <StackLayout orientation="horizontal" width="95%">
+                    <Label class="font_n1" text="นายสิทธิชัย  ลีหล้าน้อย"/>
+                    <Label class="font_n2" text="วก.สตึก"/>
+                </StackLayout>
+            <Button text="ปิด" tap="gohomepage"/>
+        </StackLayout>
     </StackLayout>
 </page>
