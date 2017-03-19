@@ -15,6 +15,9 @@
                     <Label class="font_n1" text="นายสิทธิชัย  ลีหล้าน้อย"/>
                     <Label class="font_n2" text="วก.สตึก"/>
                 </StackLayout>
+                <Label class="footer"  text="รายละเอียด" tap="detel"/>
+            <!--<Label class="footer" textWrapProperty text="Application นี้จัดทำเพื่อใช้ประกอบการอบรม การพัฒนาโปรแกรมบนอุปกรณ์เคลื่อนที่ด้วย Native Script
+15 - 19 มีนาคม 2560 โดยชมรมพัฒนาเทคโนโลยีเพื่อการ บริหารจัดการสารสนเทศบนระบบเครือข่าย"/>-->
             <Button text="ปิด" tap="gohomepage"/>
         </StackLayout>
     </StackLayout>
