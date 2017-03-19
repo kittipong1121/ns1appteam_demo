@@ -1,5 +1,23 @@
-<page loaded="pageloaded">
-    <StackLayout>
-    <!--Put Code in hear-->
+<Page actionBarHidden="actionBarHidden" loaded="loaded">
+    <StackLayout orientation="vertical" >
+    <Label class="title" text ="ระบบเก็บข้อมูลการติดต่อนักเรียน"/>
+        <StackLayout class="sector1" orientation="horizontal">
+            <Label class="labsector1" text ="ใส่ชื่อนักเรียน"/>
+            <TextField class="txtsector1" id="stdname" text="{{ stdname }}" hint="ชื่อนักศึกษา"/>
+        </StackLayout>
+        <StackLayout class="sector1" orientation="horizontal">
+            <Label class="labsector1" text ="ใส่หมายเลขโทรศัพท์"/>
+            <TextField class="txtsector1" id="stdtel" text="{{ stdtel }}" hint="หมายเลขโทรศัพท์" />
+        </StackLayout>
+        <Button text="บันทึกข้อมูล"/> 
+        <Label class="labsector2" text ="ข้อมูลการติดต่อนักเรียน"/>
+        <ListView items="{{ groceryList }}">            
+            <ListView.itemTemplate>
+                <StackLayout class="sector2" orientation="horizontal" >
+                    <Label class="name" text="{{ name }}"/>
+                    <Label class="tel" text="{{ tel }}"/>
+                </StackLayout>
+            </ListView.itemTemplate>
+        </ListView>
     </StackLayout>
-</page>
+</Page>

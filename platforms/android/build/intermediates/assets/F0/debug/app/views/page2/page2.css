@@ -1,0 +1,31 @@
+ListView {
+    margin: 5;
+}
+
+Label {
+    padding: 5;
+    vertical-align: middle;
+}
+
+.name {
+    width: 50%;
+}
+
+.tel {
+    width: 50%;
+    text-align: right;
+}
+
+TextField {
+    /*color: green;
+    background-color: snow;*/
+    font-size: 12;
+}
+
+.stdname {
+    width: 50%;
+}
+
+.stdname {
+    width: 50%;
+}

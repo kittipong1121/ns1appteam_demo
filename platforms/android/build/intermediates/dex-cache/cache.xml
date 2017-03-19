@@ -2,6 +2,55 @@
 <items version="2" >
 
     <item
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.0_f33cec86cb85d3eef537b35878e7ffdf18f5aede.jar" />
+    </item>
+    <item
+        jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.0_39439f333e0e8768be1e84de14f7423757d945d3.jar" />
+    </item>
+    <item
+        jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.0_088ce0d0a2b8c5b40b578710ffcd4d476bd8aea9.jar" />
+    </item>
+    <item
+        jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.0_ecb30348afff26ea35385fc223a603a9997f925c.jar" />
+    </item>
+    <item
+        jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.0_2450f1c4274171485e3f5f398851cb5ab425d080.jar" />
+    </item>
+    <item
+        jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\ns1appteamdemo\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_97e0f57c0a1dbc85690232126b80919eb9d45075.jar" />
+    </item>
+    <item
+        jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.0_aea3561979204b524abe32554738c4d63d0dfd44.jar" />
+    </item>
+    <item
         jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
@@ -21,13 +70,6 @@
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.0_6a60ab01ce92d8c907c29a43abfa9eb780c73889.jar" />
-    </item>
-    <item
-        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
-        <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.0_f33cec86cb85d3eef537b35878e7ffdf18f5aede.jar" />
     </item>
     <item
         jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\ns1appteamdemo\runtime\unspecified\jars\classes.jar"
@@ -51,20 +93,6 @@
         <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.0_788490adb5934aaae343fd315c089d97d268e70d.jar" />
     </item>
     <item
-        jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
-        <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.0_39439f333e0e8768be1e84de14f7423757d945d3.jar" />
-    </item>
-    <item
-        jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
-        <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.0_088ce0d0a2b8c5b40b578710ffcd4d476bd8aea9.jar" />
-    </item>
-    <item
         jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
@@ -72,39 +100,11 @@
         <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.0_aa9a42edd601aa9eca7b00ed89a16840c7cebcc1.jar" />
     </item>
     <item
-        jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
-        <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.0_ecb30348afff26ea35385fc223a603a9997f925c.jar" />
-    </item>
-    <item
         jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
         <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.0_3c7fd77c213ddf592f8202d521f46170c65bc427.jar" />
-    </item>
-    <item
-        jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
-        <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.0_2450f1c4274171485e3f5f398851cb5ab425d080.jar" />
-    </item>
-    <item
-        jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\ns1appteamdemo\runtime\unspecified\jars\libs\binding-generator.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
-        <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_97e0f57c0a1dbc85690232126b80919eb9d45075.jar" />
-    </item>
-    <item
-        jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
-        <dex dex="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.0_aea3561979204b524abe32554738c4d63d0dfd44.jar" />
     </item>
     <item
         jar="D:\Project\ns1appteam-demo\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"

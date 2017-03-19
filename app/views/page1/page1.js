@@ -27,7 +27,7 @@ exports.signIn = function() {
             return Promise.reject();
         })
         .then(function() {
-            console.log("Login Success..!! go to list page...")
+            // console.log("Login Success..!! go to list page...")
             frameModule.topmost().navigate("views/page2/page2");
         });
 };

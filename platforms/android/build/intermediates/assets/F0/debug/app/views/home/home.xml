@@ -1,5 +1,9 @@
-<page loaded="pageloaded">
-    <StackLayout>
-    <!--Put Code in hear-->
+<page actionBarHidden="actionBarHidden" loaded="loaded">
+    <StackLayout orientation="vertical" width="90%" class="m-t-2">
+        <!--<div class="elementToFadeInAndOut"></div>-->
+        <Image class="animationFadeIn" src="~/images/logo.png" stretch="none" horizontalAlignment="center" /> 
+        <Button text="Login เข้าระบบ" tap="gologinpage"/>
+        <Button text="ข้อมูลการติดต่อนักศึกษา" tap="golistpage"/>
+        <Button text="ข้อมูลผู้จัดทำ" tap="goaboutpage"/>
     </StackLayout>
 </page>

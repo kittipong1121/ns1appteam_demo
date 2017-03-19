@@ -1,5 +1,18 @@
-<page loaded="pageloaded">
-    <StackLayout>
-    <!--Put Code in hear-->
-    </StackLayout>
-</page>
+<Page loaded="loaded">
+    <!--<StackLayout orientation="vertical" >
+    <Label text ="แสดงข้อมูลการติดต่อนักเรียน"/>
+        <StackLayout orientation="horizontal">
+            <TextField id="stdname" text="{{ stdname }}" hint="ชื่อนักศึกษา"/>
+            <TextField id="stdtel" text="{{ stdtel }}" hint="หมายเลขโทรศัพท์" />
+        </StackLayout>
+        <Button text="บันทึกข้อมูล"/>
+        <ListView items="{{ groceryList }}">            
+            <ListView.itemTemplate>
+                <StackLayout orientation="horizontal" >
+                    <Label class="name" text="{{ name }}"/>
+                    <Label class="tel" text="{{ tel }}"/>
+                </StackLayout>
+            </ListView.itemTemplate>
+        </ListView>
+    </StackLayout>-->
+</Page>
