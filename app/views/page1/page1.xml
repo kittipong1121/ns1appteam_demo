@@ -1,5 +1,14 @@
-<page loaded="pageloaded">
-    <StackLayout orientation="horizontal">
-    <!--Put Code in hear-->
+<Page actionBarHidden="actionBarHidden" loaded="loaded">
+    <StackLayout class="bg1" orientation="vertical">
+        <StackLayout class="bg2" orientation="vertical">
+            <Image src="~/images/login.png" stretch="none" horizontalAlignment="center" /> 
+            <Label class="header" text="Login เพื่อเข้าระบบ"/>
+            <Label class="title" text="Email or Username"/>
+            <TextField id="email" text="{{ email }}" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+            <Label class="title" text="Password"/>
+            <TextField secure="true" text="{{ password }}" hint="Password" />
+            <Button text="Sign in" tap="signIn" />
+        </StackLayout>       
+        <!--<Button text="Sign up for Groceries" class="link" tap="register" />-->
     </StackLayout>
-</page>
+</Page>
