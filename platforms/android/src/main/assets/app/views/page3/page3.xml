@@ -1,7 +1,7 @@
 <page actionBarHidden="actionBarHidden" loaded="loaded">
     <StackLayout>
         <StackLayout>
-            <Label class="header" text="ผู้จัดทำ"/>
+            <Label class="header" text="ข้อมูลผู้พัฒนา Up2Me App"/>
             <Image src="~/images/login-big-icon.png" horizontalAlignment="center" /> 
                 <StackLayout orientation="horizontal" width="95%">
                     <Label class="font_n1" text="นายกิตติพงษ์  แก้วโสภา"/>
